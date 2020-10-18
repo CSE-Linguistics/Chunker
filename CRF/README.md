@@ -11,6 +11,8 @@
   - Install requirements by running:
   ```pip install -r requirements.txt```
   - Update path to load file for train data and test data. The code snippet is as follows:
-  ```train_sents = load_data('/content/train.txt') # change to relevant path```
-  ```test_sents = load_data('/content/test.txt') # change to relevant path```
+  ```
+      train_sents = load_data('/content/train.txt') # change to relevant path
+      test_sents = load_data('/content/test.txt') # change to relevant path
+  ```
   - Run the notebook leaving the first cell
