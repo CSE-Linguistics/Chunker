@@ -1,0 +1,5 @@
+python-crfsuite
+sklearn-crfsuite
+matplotlib
+sklearn
+numpy
